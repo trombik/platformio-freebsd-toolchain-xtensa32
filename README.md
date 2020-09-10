@@ -22,7 +22,8 @@ Install the following packages.
 
 Note that [`devel/xtensa-esp32-elf`](https://www.freshports.org/devel/xtensa-esp32-elf/)
 in the official ports tree is not the latest version (as of 2020-09-10). You
-might need to use my version of `xtensa-esp32-elf`, which is still in beta.
+might need to use my version of [`xtensa-esp32-elf`](https://github.com/trombik/xtensa-esp32-elf),
+which is still in beta.
 
 ## Usage
 
