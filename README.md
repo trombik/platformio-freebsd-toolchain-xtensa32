@@ -29,7 +29,7 @@ might need to use my version of `xtensa-esp32-elf`, which is still in beta.
 ```console
 cd ~/.platformio/packages
 git clone https://github.com/trombik/platformio-freebsd-toolchain-xtensa32.git toolchain-xtensa32
-cd tool-ninja
+cd toolchain-xtensa32
 ./init.sh
 ```
 
